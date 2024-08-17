@@ -1,6 +1,6 @@
 import { title } from "process"
 import { Fragment } from "react";
-import { getSkills } from "../api/page"
+import { getSkills } from "../api/functions"
 
 export const metadata = {
   title: "Skills"

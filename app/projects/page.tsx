@@ -1,6 +1,6 @@
 import { title } from "process";
 import { Fragment } from "react";
-import { getProjects } from "../api/page";
+import { getProjects } from "../api/functions";
 
 export const metadata = {
   title: "Projects"
