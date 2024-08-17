@@ -21,7 +21,7 @@ async function getProjects(): Promise<project[]> {
   return projectData;
 }
 
-export{
+export {
   getSkills,
   getProjects
 };
